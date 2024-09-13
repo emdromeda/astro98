@@ -1,11 +1,19 @@
 1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+My computer terminal is in the language Bash. Here are some commands I can use:
+ls tells me what is in the directory I am in.
+cd allows me to change to a diffrenent directory.
+pwd allows me to see what directory I am in.
+mv allows me to rename and change the path of a directory.
 
 2. Do you have pets? What kind?
+I sadly do not have a pet but I would love to get a cat at some point!
 
 3. If you run across an error, what would your first course of action be?
+I would check my code to see if I made any errors and try editing any parts that may have caused the issue. I would also do research to see if anyone else is having similiar issues to find a solution.
 
 4. Funniest thing that happened to you in high school.
+Honestly, high school was pretty boring. Nothing very funny ever happened.
 
 5. What is a python script? (Keep it simple)
-
+A python script is a file of python code that does what the code is directing it to. 
 
